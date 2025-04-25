@@ -29,7 +29,7 @@ Before running the simulation, ensure you have the following dependencies instal
 - **QGroundControl** for mission planning and drone telemetry.
 ### Clone the repository and setup environment:
 ```bash
-git clone https://github.com/MalikAbdulSalam/RAG.git
+git clone https://github.com/MalikAbdulSalam/tracker_drone_simulation
 cd tracker_drone_simulation
 conda env create -f environment.yaml
 conda activate droncuda
