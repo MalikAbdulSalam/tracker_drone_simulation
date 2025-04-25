@@ -10,7 +10,7 @@ This project demonstrates an intelligent drone system that combines computer vis
 - **Offboard Control**: The drone operates in offboard mode for precise movement control.
 - **Camera Feed**: Displays the camera feed with annotations for tracked objects.
 - **Tracking Direction**: Based on the object’s position, the drone moves left, right, forward, or backward to keep the object centered.
-![Chatbot Flow Screenshot](resources/rag.png)
+![drone_simulation_ Screenshot](drone_simulation_.png)
 ## Requirements
 
 Before running the simulation, ensure you have the following dependencies installed:
